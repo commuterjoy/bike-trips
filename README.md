@@ -2,10 +2,11 @@
 
 Criteria
 
-- 60km (ish)
+- 60km / 40 miles (ish) - can ride in a day.
 - Minimal roads
 - Doable on hybrid bike (in Spring-Summer)
-- Child-friendly elevation (< 600)
+- Child-friendly elevation (< 500)
+- Train station at either end.
 
 Tools
 
